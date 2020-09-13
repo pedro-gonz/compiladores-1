@@ -1,2 +1,0 @@
-# compiladores
-Tarea de compiladores
